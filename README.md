@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Aero Engine Defect Detection</title>
-</head>
+
 <body>
 <h1>Aero Engine Defect Detection</h1>
 
@@ -43,6 +41,10 @@
 <li>Precision: 98.18%</li>
 <li>Recall: 98.08%</li>
 </ul>
+
+<h3>Sample Results</h3>
+<p>Classification results on test images:</p>
+<p><img src="assets/result.png" alt="Sample Predictions" width="800"></p>
 
 <h2>Training Loss</h2>
 <ul>
